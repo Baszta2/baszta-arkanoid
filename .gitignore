@@ -39,6 +39,9 @@
 *.out
 *.app
 
+# other
+*.png
+
 #vscode
 .vscode/
 
