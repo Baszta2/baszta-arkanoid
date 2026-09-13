@@ -39,6 +39,9 @@
 *.out
 *.app
 
+#vscode
+.vscode/
+
 # Build directories
 build/
 Build/
@@ -57,6 +60,7 @@ compile_commands.json
 *.log
 *.bak
 *.swp
+temp/
 
 # vcpkg
 vcpkg_installed/
